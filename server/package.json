@@ -1,0 +1,23 @@
+{
+  "name": "rishu-yt",
+  "version": "1.0.0",
+  "description": "it is a youtube video downloder",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishu Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "keywords": [
+    "1806"
+  ],
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "ytdl-core": "^4.11.4"
+  }
+}
